@@ -1,0 +1,2339 @@
+{
+    "usage": {
+        "num_pages": 10
+    },
+    "result": {
+        "type": "full",
+        "chunks": [
+            {
+                "content": "",
+                "embed": "",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Figure",
+                        "bbox": {
+                            "left": 0.5837770104408264,
+                            "top": 0.10127876698970795,
+                            "width": 0.050858061760663986,
+                            "height": 0.04697060212492943,
+                            "page": 1
+                        },
+                        "content": ""
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.6465087532997131,
+                            "top": 0.11062317341566086,
+                            "width": 0.23058205842971802,
+                            "height": 0.02263641357421875,
+                            "page": 1
+                        },
+                        "content": "BANK NEGARA MALAYSIA\nCENTRAL BANK OF MALAYSIA"
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance\n\nApplicable to:\n\n1. Licensed banks\n\n2. Licensed investment banks\n\n3. Licensed Islamic banks\n\n4. Licensed international Islamic banks\n\n5. Licensed insurers\n\n6. Licensed takaful operators\n\n7. Prescribed development financial institutions\n\n8. Financial holding companies\n\nTABLE OF CONTENTS",
+                "embed": "# Compliance\n\nApplicable to:\n\n1. Licensed banks\n\n2. Licensed investment banks\n\n3. Licensed Islamic banks\n\n4. Licensed international Islamic banks\n\n5. Licensed insurers\n\n6. Licensed takaful operators\n\n7. Prescribed development financial institutions\n\n8. Financial holding companies\n\nTABLE OF CONTENTS",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Title",
+                        "bbox": {
+                            "left": 0.6693876385688782,
+                            "top": 0.43129798769950867,
+                            "width": 0.20682264864444733,
+                            "height": 0.025126678869128227,
+                            "page": 1
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.1200098842382431,
+                            "top": 0.7450079321861267,
+                            "width": 0.10008647292852402,
+                            "height": 0.011507155373692513,
+                            "page": 1
+                        },
+                        "content": "Applicable to:"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12100257724523544,
+                            "top": 0.7587288618087769,
+                            "width": 0.1460762768983841,
+                            "height": 0.009737404994666576,
+                            "page": 1
+                        },
+                        "content": "1. Licensed banks"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12080893665552139,
+                            "top": 0.772258460521698,
+                            "width": 0.2317012995481491,
+                            "height": 0.009821098297834396,
+                            "page": 1
+                        },
+                        "content": "2. Licensed investment banks"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12071622163057327,
+                            "top": 0.7860229015350342,
+                            "width": 0.20301619172096252,
+                            "height": 0.00954632181674242,
+                            "page": 1
+                        },
+                        "content": "3. Licensed Islamic banks"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12042172998189926,
+                            "top": 0.7995626330375671,
+                            "width": 0.299201101064682,
+                            "height": 0.00985204428434372,
+                            "page": 1
+                        },
+                        "content": "4. Licensed international Islamic banks"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12042984366416931,
+                            "top": 0.8133823275566101,
+                            "width": 0.16117043793201447,
+                            "height": 0.00967842061072588,
+                            "page": 1
+                        },
+                        "content": "5. Licensed insurers"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12074051797389984,
+                            "top": 0.8270477056503296,
+                            "width": 0.22597679495811462,
+                            "height": 0.011765471659600735,
+                            "page": 1
+                        },
+                        "content": "6. Licensed takaful operators"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1208493709564209,
+                            "top": 0.8404426574707031,
+                            "width": 0.36011213064193726,
+                            "height": 0.012080525979399681,
+                            "page": 1
+                        },
+                        "content": "7. Prescribed development financial institutions"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12085738033056259,
+                            "top": 0.8540695905685425,
+                            "width": 0.24105556309223175,
+                            "height": 0.012253958731889725,
+                            "page": 1
+                        },
+                        "content": "8. Financial holding companies"
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.12114857137203217,
+                            "top": 0.9178228378295898,
+                            "width": 0.17778636515140533,
+                            "height": 0.011688029393553734,
+                            "page": 1
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.7354482412338257,
+                            "top": 0.9176997542381287,
+                            "width": 0.14113736152648926,
+                            "height": 0.009674224071204662,
+                            "page": 1
+                        },
+                        "content": "BNM/RH/PD 028-9"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.12079829722642899,
+                            "top": 0.04430396854877472,
+                            "width": 0.08778557926416397,
+                            "height": 0.011777407489717007,
+                            "page": 2
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.39031049609184265,
+                            "top": 0.09617447853088379,
+                            "width": 0.21677517890930176,
+                            "height": 0.011192528530955315,
+                            "page": 2
+                        },
+                        "content": "TABLE OF CONTENTS"
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## PART A OVERVIEW\n\n1\n\n1 Introduction\n\n1\n\n2 Applicability\n\n1\n\n3 Legal provisions\n\n2\n\n4 Effective date\n\n2\n\n5 Interpretation\n\n2",
+                "embed": "# Compliance (cont.)\n\n## PART A OVERVIEW\n\n1\n\n1 Introduction\n\n1\n\n2 Applicability\n\n1\n\n3 Legal provisions\n\n2\n\n4 Effective date\n\n2\n\n5 Interpretation\n\n2",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.12161262333393097,
+                            "top": 0.13701675832271576,
+                            "width": 0.21533408761024475,
+                            "height": 0.011423029005527496,
+                            "page": 2
+                        },
+                        "content": "PART A OVERVIEW"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8675492405891418,
+                            "top": 0.13737352192401886,
+                            "width": 0.007924465462565422,
+                            "height": 0.010847470723092556,
+                            "page": 2
+                        },
+                        "content": "1"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.15804968774318695,
+                            "top": 0.15330812335014343,
+                            "width": 0.17407754063606262,
+                            "height": 0.011012141592800617,
+                            "page": 2
+                        },
+                        "content": "1 Introduction"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8678229451179504,
+                            "top": 0.15337039530277252,
+                            "width": 0.006993570830672979,
+                            "height": 0.010864637792110443,
+                            "page": 2
+                        },
+                        "content": "1"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.15655721724033356,
+                            "top": 0.16992881894111633,
+                            "width": 0.17809513211250305,
+                            "height": 0.013642367906868458,
+                            "page": 2
+                        },
+                        "content": "2 Applicability"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8677799105644226,
+                            "top": 0.17012114822864532,
+                            "width": 0.007174327038228512,
+                            "height": 0.010574057698249817,
+                            "page": 2
+                        },
+                        "content": "1"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.15668326616287231,
+                            "top": 0.18651063740253448,
+                            "width": 0.2160826474428177,
+                            "height": 0.013809580355882645,
+                            "page": 2
+                        },
+                        "content": "3 Legal provisions"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8661746382713318,
+                            "top": 0.18658417463302612,
+                            "width": 0.01078320574015379,
+                            "height": 0.010621427558362484,
+                            "page": 2
+                        },
+                        "content": "2"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.1562521606683731,
+                            "top": 0.2027212530374527,
+                            "width": 0.19286923110485077,
+                            "height": 0.011242828331887722,
+                            "page": 2
+                        },
+                        "content": "4 Effective date"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8665282130241394,
+                            "top": 0.20298588275909424,
+                            "width": 0.010433696210384369,
+                            "height": 0.010652475990355015,
+                            "page": 2
+                        },
+                        "content": "2"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.15667521953582764,
+                            "top": 0.2187696397304535,
+                            "width": 0.18900516629219055,
+                            "height": 0.013814088888466358,
+                            "page": 2
+                        },
+                        "content": "5 Interpretation"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8664547801017761,
+                            "top": 0.21911361813545227,
+                            "width": 0.010449781082570553,
+                            "height": 0.010433060117065907,
+                            "page": 2
+                        },
+                        "content": "2"
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## PART B POLICY REQUIREMENTS\n\n4\n\n6 Responsibilities of the board and senior management\n\n4\n\n7 Organisation of the compliance function\n\n6\n\n8 Responsibilities of the compliance function\n\n8\n\n9 Responsibilities of the internal audit function\n\n10",
+                "embed": "# Compliance (cont.)\n\n## PART B POLICY REQUIREMENTS\n\n4\n\n6 Responsibilities of the board and senior management\n\n4\n\n7 Organisation of the compliance function\n\n6\n\n8 Responsibilities of the compliance function\n\n8\n\n9 Responsibilities of the internal audit function\n\n10",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.12184204161167145,
+                            "top": 0.2599840760231018,
+                            "width": 0.348323792219162,
+                            "height": 0.011437616311013699,
+                            "page": 2
+                        },
+                        "content": "PART B POLICY REQUIREMENTS"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8662638664245605,
+                            "top": 0.26017308235168457,
+                            "width": 0.011484310030937195,
+                            "height": 0.010643220506608486,
+                            "page": 2
+                        },
+                        "content": "4"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.1564912348985672,
+                            "top": 0.27624446153640747,
+                            "width": 0.5474012494087219,
+                            "height": 0.014595463871955872,
+                            "page": 2
+                        },
+                        "content": "6 Responsibilities of the board and senior management"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8659195303916931,
+                            "top": 0.2765920162200928,
+                            "width": 0.010908564552664757,
+                            "height": 0.01072475966066122,
+                            "page": 2
+                        },
+                        "content": "4"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.15659299492835999,
+                            "top": 0.29271912574768066,
+                            "width": 0.4239082634449005,
+                            "height": 0.01439386885613203,
+                            "page": 2
+                        },
+                        "content": "7 Organisation of the compliance function"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8663208484649658,
+                            "top": 0.29316410422325134,
+                            "width": 0.010601421818137169,
+                            "height": 0.010657320730388165,
+                            "page": 2
+                        },
+                        "content": "6"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.15663670003414154,
+                            "top": 0.30949676036834717,
+                            "width": 0.44996121525764465,
+                            "height": 0.014016114175319672,
+                            "page": 2
+                        },
+                        "content": "8 Responsibilities of the compliance function"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8665094375610352,
+                            "top": 0.30980488657951355,
+                            "width": 0.010313989594578743,
+                            "height": 0.010700537823140621,
+                            "page": 2
+                        },
+                        "content": "8"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.15649645030498505,
+                            "top": 0.3254132568836212,
+                            "width": 0.46307021379470825,
+                            "height": 0.013744228519499302,
+                            "page": 2
+                        },
+                        "content": "9 Responsibilities of the internal audit function"
+                    },
+                    {
+                        "type": "Text",
+                        "bbox": {
+                            "left": 0.8564926385879517,
+                            "top": 0.3255574107170105,
+                            "width": 0.020762600004673004,
+                            "height": 0.011087835766375065,
+                            "page": 2
+                        },
+                        "content": "10"
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.12142955511808395,
+                            "top": 0.9380828142166138,
+                            "width": 0.1778678447008133,
+                            "height": 0.011914275586605072,
+                            "page": 2
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.11857596784830093,
+                            "top": 0.04863087832927704,
+                            "width": 0.08845439553260803,
+                            "height": 0.012058389373123646,
+                            "page": 3
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.829328715801239,
+                            "top": 0.048563819378614426,
+                            "width": 0.050275783985853195,
+                            "height": 0.009838058613240719,
+                            "page": 3
+                        },
+                        "content": "1 of 10"
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## PART A OVERVIEW\n\n## 1 Introduction\n\n- 1.1 A strong compliance culture reflects a corporate culture of high ethical standards and integrity in which the board and senior management lead by example. A financial institution should hold itself to high standards in carrying on business, and at all times observe both the spirit and the letter of the law and regulations. Failure to effectively manage compliance risk may result in adverse consequences for the financial institution's customers, shareholders, officers and the financial institution itself.\n\n- 1.2 Compliance is the responsibility of all officers within a financial institution. All business lines and functions within a financial institution must carry out their responsibilities to ensure the effective management of compliance risk:\n\n\t(a) business lines, through appropriate managerial and supervisory controls, are primarily responsible for managing compliance risk inherent in the day-to-day activities, processes and systems of the financial institution for which they are accountable;\n\n\t(b) the compliance function is responsible for ensuring that controls to manage compliance risk are adequate and operating as intended. It is also responsible for assessing and monitoring of compliance risk faced by the financial institution; and\n\n\t(c) the internal audit function is responsible for providing independent assurance to the board and senior management on the quality and effectiveness of the institution's overall internal controls, risk management and governance systems and processes, including those instituted by the compliance function.\n\n- 1.3 The objective of the requirements in this policy document is to promote the safety and soundness of financial institutions by minimising financial, reputational and operational risks arising from legal and regulatory non- compliance.\n\n- 1.4 This policy document sets out the following:\n\n\t(a) expectations on the board and senior management to oversee and ensure the effective management of compliance risk, including the establishment of a compliance function and the position of chief compliance officer; and\n\n\t(b) key features and responsibilities of the compliance function to support the effective management of compliance risk.",
+                "embed": "# Compliance (cont.)\n\n## PART A OVERVIEW\n\n## 1 Introduction\n\n- 1.1 A strong compliance culture reflects a corporate culture of high ethical standards and integrity in which the board and senior management lead by example. A financial institution should hold itself to high standards in carrying on business, and at all times observe both the spirit and the letter of the law and regulations. Failure to effectively manage compliance risk may result in adverse consequences for the financial institution's customers, shareholders, officers and the financial institution itself.\n\n- 1.2 Compliance is the responsibility of all officers within a financial institution. All business lines and functions within a financial institution must carry out their responsibilities to ensure the effective management of compliance risk:\n\n\t(a) business lines, through appropriate managerial and supervisory controls, are primarily responsible for managing compliance risk inherent in the day-to-day activities, processes and systems of the financial institution for which they are accountable;\n\n\t(b) the compliance function is responsible for ensuring that controls to manage compliance risk are adequate and operating as intended. It is also responsible for assessing and monitoring of compliance risk faced by the financial institution; and\n\n\t(c) the internal audit function is responsible for providing independent assurance to the board and senior management on the quality and effectiveness of the institution's overall internal controls, risk management and governance systems and processes, including those instituted by the compliance function.\n\n- 1.3 The objective of the requirements in this policy document is to promote the safety and soundness of financial institutions by minimising financial, reputational and operational risks arising from legal and regulatory non- compliance.\n\n- 1.4 This policy document sets out the following:\n\n\t(a) expectations on the board and senior management to oversee and ensure the effective management of compliance risk, including the establishment of a compliance function and the position of chief compliance officer; and\n\n\t(b) key features and responsibilities of the compliance function to support the effective management of compliance risk.",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.11967095732688904,
+                            "top": 0.10117337107658386,
+                            "width": 0.24662472307682037,
+                            "height": 0.013068168424069881,
+                            "page": 3
+                        },
+                        "content": "PART A OVERVIEW"
+                    },
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.11931300908327103,
+                            "top": 0.13938571512699127,
+                            "width": 0.17529398202896118,
+                            "height": 0.011485385708510876,
+                            "page": 3
+                        },
+                        "content": "1 Introduction"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12111280113458633,
+                            "top": 0.1769360452890396,
+                            "width": 0.75904780626297,
+                            "height": 0.10973010957241058,
+                            "page": 3
+                        },
+                        "content": "- 1.1 A strong compliance culture reflects a corporate culture of high ethical standards and integrity in which the board and senior management lead by example. A financial institution should hold itself to high standards in carrying on business, and at all times observe both the spirit and the letter of the law and regulations. Failure to effectively manage compliance risk may result in adverse consequences for the financial institution's customers, shareholders, officers and the financial institution itself."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12017422169446945,
+                            "top": 0.3078750669956207,
+                            "width": 0.7605350613594055,
+                            "height": 0.046766217797994614,
+                            "page": 3
+                        },
+                        "content": "- 1.2 Compliance is the responsibility of all officers within a financial institution. All business lines and functions within a financial institution must carry out their responsibilities to ensure the effective management of compliance risk:"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17940425872802734,
+                            "top": 0.35704168677330017,
+                            "width": 0.7000035047531128,
+                            "height": 0.06341223418712616,
+                            "page": 3
+                        },
+                        "content": "\t(a) business lines, through appropriate managerial and supervisory controls, are primarily responsible for managing compliance risk inherent in the day-to-day activities, processes and systems of the financial institution for which they are accountable;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17893588542938232,
+                            "top": 0.4223610460758209,
+                            "width": 0.7006874084472656,
+                            "height": 0.06355337798595428,
+                            "page": 3
+                        },
+                        "content": "\t(b) the compliance function is responsible for ensuring that controls to manage compliance risk are adequate and operating as intended. It is also responsible for assessing and monitoring of compliance risk faced by the financial institution; and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1791737675666809,
+                            "top": 0.4880898892879486,
+                            "width": 0.7014800906181335,
+                            "height": 0.07992033660411835,
+                            "page": 3
+                        },
+                        "content": "\t(c) the internal audit function is responsible for providing independent assurance to the board and senior management on the quality and effectiveness of the institution's overall internal controls, risk management and governance systems and processes, including those instituted by the compliance function."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.12032315135002136,
+                            "top": 0.5866928100585938,
+                            "width": 0.7598702907562256,
+                            "height": 0.06358487159013748,
+                            "page": 3
+                        },
+                        "content": "- 1.3 The objective of the requirements in this policy document is to promote the safety and soundness of financial institutions by minimising financial, reputational and operational risks arising from legal and regulatory non- compliance."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1207701712846756,
+                            "top": 0.6682484745979309,
+                            "width": 0.44584012031555176,
+                            "height": 0.014402422122657299,
+                            "page": 3
+                        },
+                        "content": "- 1.4 This policy document sets out the following:"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17877770960330963,
+                            "top": 0.684916615486145,
+                            "width": 0.7020277380943298,
+                            "height": 0.0630277693271637,
+                            "page": 3
+                        },
+                        "content": "\t(a) expectations on the board and senior management to oversee and ensure the effective management of compliance risk, including the establishment of a compliance function and the position of chief compliance officer; and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17881371080875397,
+                            "top": 0.7503606677055359,
+                            "width": 0.7010212540626526,
+                            "height": 0.03089870698750019,
+                            "page": 3
+                        },
+                        "content": "\t(b) key features and responsibilities of the compliance function to support the effective management of compliance risk."
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## 2 Applicability\n\n2.1 This policy document is applicable to all financial institutions as defined in paragraph 5.2.",
+                "embed": "# Compliance (cont.)\n\n## 2 Applicability\n\n2.1 This policy document is applicable to all financial institutions as defined in paragraph 5.2.",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.11853062361478806,
+                            "top": 0.8034616112709045,
+                            "width": 0.17927202582359314,
+                            "height": 0.01437158789485693,
+                            "page": 3
+                        },
+                        "content": "2 Applicability"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11841320991516113,
+                            "top": 0.8405775427818298,
+                            "width": 0.7607248425483704,
+                            "height": 0.03080081008374691,
+                            "page": 3
+                        },
+                        "content": "2.1 This policy document is applicable to all financial institutions as defined in paragraph 5.2."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11921867728233337,
+                            "top": 0.9437986016273499,
+                            "width": 0.17823563516139984,
+                            "height": 0.012036709114909172,
+                            "page": 3
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.11849945038557053,
+                            "top": 0.048633918166160583,
+                            "width": 0.08854103088378906,
+                            "height": 0.012041994370520115,
+                            "page": 4
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8283100128173828,
+                            "top": 0.048559486865997314,
+                            "width": 0.051243796944618225,
+                            "height": 0.009796533733606339,
+                            "page": 4
+                        },
+                        "content": "2 of 10"
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## 3 Legal provisions\n\n- 3.1 This policy document is issued pursuant to-\n\n\t(a) section 47(1), section 115 and section 266 of the Financial Services Act 2013 (FSA);\n\n\t(b) section 57(1), section 127 and section 277 of the Islamic Financial Services Act 2013 (IFSA); and\n\n\t(c) section 41 and section 126 of the Development Financial Institutions Act 2002 (DFIA).",
+                "embed": "# Compliance (cont.)\n\n## 3 Legal provisions\n\n- 3.1 This policy document is issued pursuant to-\n\n\t(a) section 47(1), section 115 and section 266 of the Financial Services Act 2013 (FSA);\n\n\t(b) section 57(1), section 127 and section 277 of the Islamic Financial Services Act 2013 (IFSA); and\n\n\t(c) section 41 and section 126 of the Development Financial Institutions Act 2002 (DFIA).",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.1188984140753746,
+                            "top": 0.10411255806684494,
+                            "width": 0.21844744682312012,
+                            "height": 0.014139189384877682,
+                            "page": 4
+                        },
+                        "content": "3 Legal provisions"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11908214539289474,
+                            "top": 0.14156953990459442,
+                            "width": 0.4505580961704254,
+                            "height": 0.014223375357687473,
+                            "page": 4
+                        },
+                        "content": "- 3.1 This policy document is issued pursuant to-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17899633944034576,
+                            "top": 0.1573479026556015,
+                            "width": 0.7015872597694397,
+                            "height": 0.03092840500175953,
+                            "page": 4
+                        },
+                        "content": "\t(a) section 47(1), section 115 and section 266 of the Financial Services Act 2013 (FSA);"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17881277203559875,
+                            "top": 0.19049611687660217,
+                            "width": 0.7008659839630127,
+                            "height": 0.030854007229208946,
+                            "page": 4
+                        },
+                        "content": "\t(b) section 57(1), section 127 and section 277 of the Islamic Financial Services Act 2013 (IFSA); and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17903223633766174,
+                            "top": 0.2229520082473755,
+                            "width": 0.7015724778175354,
+                            "height": 0.030901286751031876,
+                            "page": 4
+                        },
+                        "content": "\t(c) section 41 and section 126 of the Development Financial Institutions Act 2002 (DFIA)."
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## 4 Effective date\n\n4.1 This policy document comes into effect on 1 January 2017.",
+                "embed": "# Compliance (cont.)\n\n## 4 Effective date\n\n4.1 This policy document comes into effect on 1 January 2017.",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.11828619241714478,
+                            "top": 0.27720338106155396,
+                            "width": 0.1900542974472046,
+                            "height": 0.011653391644358635,
+                            "page": 4
+                        },
+                        "content": "4 Effective date"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1181744709610939,
+                            "top": 0.3149468004703522,
+                            "width": 0.585599422454834,
+                            "height": 0.014152798801660538,
+                            "page": 4
+                        },
+                        "content": "4.1 This policy document comes into effect on 1 January 2017."
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## 5 Interpretation\n\n- 5.1 The terms and expressions used in this policy document shall have the same meanings assigned to them in the FSA, IFSA or DFIA, as the case may be, unless otherwise defined in this policy document.\n\n- 5.2 For the purpose of this policy document-\n\n\t- \"S\" denotes a standard, an obligation, a requirement, specification, direction, condition and any interpretative, supplemental and transitional provisions that must be complied with. Non-compliance may result in enforcement action;\n\n\t- \"G\" denotes guidance which may consist of statements or information intended to promote common understanding and advice or recommendations that are encouraged to be adopted;\n\n\t- \"board\" means the board of directors of a financial institution, including a committee of the board where the responsibilities of the board set out in this policy document have been delegated to such a committee;\n\n\t- \"senior management\" refers to the chief executive officer and senior officers of a financial institution;\n\n\t- \"chief compliance officer\" or \"CCO\" means the senior officer of a financial institution, however styled, who is the central point of authority for a financial institution's compliance matters and is responsible for providing an institution- wide view on the management of compliance risk;\n\n\t- \"compliance function\" refers to officers carrying out compliance function responsibilities of a financial institution, as described in paragraphs 8.4 to 8.11, including the CCO;\n\n\"compliance risk\" means the risk of legal or regulatory sanctions, financial loss or reputational damage which a financial institution may suffer as a result of its failure to comply with legal and regulatory requirements applicable to its activities;\n\n\"control function\" refers to a function that has a responsibility independent from business lines to provide objective assessment, reporting or assurance. This includes the risk management function, the compliance function and the internal audit function;\n\n\"financial institution\" means-\n\n(a) a licensed person under the FSA;\n\n(b) a licensed person under the IFSA;\n\n(c) a development financial institution prescribed under the DFIA; and\n\n(d) a financial holding company;\n\n\"large financial institution\" means-\n\n(a) a financial institution with one or more business lines that are significant in terms of market share in the relevant industry; or\n\n(b) a financial institution with a large network of offices within or outside the country through operations of branches and subsidiaries;\n\n\"legal and regulatory requirements\" means all laws, rules, standards and regulatory requirements (including any ruling of the Shariah Advisory Council) relevant to a financial institution's activities in all jurisdictions in which the financial institution, or any of its branches or subsidiaries, conducts activities.",
+                "embed": "# Compliance (cont.)\n\n## 5 Interpretation\n\n- 5.1 The terms and expressions used in this policy document shall have the same meanings assigned to them in the FSA, IFSA or DFIA, as the case may be, unless otherwise defined in this policy document.\n\n- 5.2 For the purpose of this policy document-\n\n\t- \"S\" denotes a standard, an obligation, a requirement, specification, direction, condition and any interpretative, supplemental and transitional provisions that must be complied with. Non-compliance may result in enforcement action;\n\n\t- \"G\" denotes guidance which may consist of statements or information intended to promote common understanding and advice or recommendations that are encouraged to be adopted;\n\n\t- \"board\" means the board of directors of a financial institution, including a committee of the board where the responsibilities of the board set out in this policy document have been delegated to such a committee;\n\n\t- \"senior management\" refers to the chief executive officer and senior officers of a financial institution;\n\n\t- \"chief compliance officer\" or \"CCO\" means the senior officer of a financial institution, however styled, who is the central point of authority for a financial institution's compliance matters and is responsible for providing an institution- wide view on the management of compliance risk;\n\n\t- \"compliance function\" refers to officers carrying out compliance function responsibilities of a financial institution, as described in paragraphs 8.4 to 8.11, including the CCO;\n\n\"compliance risk\" means the risk of legal or regulatory sanctions, financial loss or reputational damage which a financial institution may suffer as a result of its failure to comply with legal and regulatory requirements applicable to its activities;\n\n\"control function\" refers to a function that has a responsibility independent from business lines to provide objective assessment, reporting or assurance. This includes the risk management function, the compliance function and the internal audit function;\n\n\"financial institution\" means-\n\n(a) a licensed person under the FSA;\n\n(b) a licensed person under the IFSA;\n\n(c) a development financial institution prescribed under the DFIA; and\n\n(d) a financial holding company;\n\n\"large financial institution\" means-\n\n(a) a financial institution with one or more business lines that are significant in terms of market share in the relevant industry; or\n\n(b) a financial institution with a large network of offices within or outside the country through operations of branches and subsidiaries;\n\n\"legal and regulatory requirements\" means all laws, rules, standards and regulatory requirements (including any ruling of the Shariah Advisory Council) relevant to a financial institution's activities in all jurisdictions in which the financial institution, or any of its branches or subsidiaries, conducts activities.",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.11902937293052673,
+                            "top": 0.3515316843986511,
+                            "width": 0.18843974173069,
+                            "height": 0.014070941135287285,
+                            "page": 4
+                        },
+                        "content": "5 Interpretation"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11780107021331787,
+                            "top": 0.3889404833316803,
+                            "width": 0.7615733742713928,
+                            "height": 0.047034282237291336,
+                            "page": 4
+                        },
+                        "content": "- 5.1 The terms and expressions used in this policy document shall have the same meanings assigned to them in the FSA, IFSA or DFIA, as the case may be, unless otherwise defined in this policy document."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11813836544752121,
+                            "top": 0.454672247171402,
+                            "width": 0.42408713698387146,
+                            "height": 0.014119332656264305,
+                            "page": 4
+                        },
+                        "content": "- 5.2 For the purpose of this policy document-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1786724478006363,
+                            "top": 0.48712316155433655,
+                            "width": 0.7020645141601562,
+                            "height": 0.04721923545002937,
+                            "page": 4
+                        },
+                        "content": "\t- \"S\" denotes a standard, an obligation, a requirement, specification, direction, condition and any interpretative, supplemental and transitional provisions that must be complied with. Non-compliance may result in enforcement action;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17901082336902618,
+                            "top": 0.5525617599487305,
+                            "width": 0.7008165121078491,
+                            "height": 0.04725585877895355,
+                            "page": 4
+                        },
+                        "content": "\t- \"G\" denotes guidance which may consist of statements or information intended to promote common understanding and advice or recommendations that are encouraged to be adopted;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1790466010570526,
+                            "top": 0.6179591417312622,
+                            "width": 0.7007716298103333,
+                            "height": 0.04766383394598961,
+                            "page": 4
+                        },
+                        "content": "\t- \"board\" means the board of directors of a financial institution, including a committee of the board where the responsibilities of the board set out in this policy document have been delegated to such a committee;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1785781979560852,
+                            "top": 0.6836715936660767,
+                            "width": 0.700955331325531,
+                            "height": 0.030112670734524727,
+                            "page": 4
+                        },
+                        "content": "\t- \"senior management\" refers to the chief executive officer and senior officers of a financial institution;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1781005710363388,
+                            "top": 0.7325324416160583,
+                            "width": 0.7019604444503784,
+                            "height": 0.06406029313802719,
+                            "page": 4
+                        },
+                        "content": "\t- \"chief compliance officer\" or \"CCO\" means the senior officer of a financial institution, however styled, who is the central point of authority for a financial institution's compliance matters and is responsible for providing an institution- wide view on the management of compliance risk;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17794381082057953,
+                            "top": 0.8148015737533569,
+                            "width": 0.7019047737121582,
+                            "height": 0.04748600348830223,
+                            "page": 4
+                        },
+                        "content": "\t- \"compliance function\" refers to officers carrying out compliance function responsibilities of a financial institution, as described in paragraphs 8.4 to 8.11, including the CCO;"
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11904506385326385,
+                            "top": 0.9437640309333801,
+                            "width": 0.17837387323379517,
+                            "height": 0.012071119621396065,
+                            "page": 4
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.11852824687957764,
+                            "top": 0.04847867414355278,
+                            "width": 0.08852744102478027,
+                            "height": 0.012311131693422794,
+                            "page": 5
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8290604948997498,
+                            "top": 0.04858581721782684,
+                            "width": 0.050803299993276596,
+                            "height": 0.009903928264975548,
+                            "page": 5
+                        },
+                        "content": "3 of 10"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17807136476039886,
+                            "top": 0.10046921670436859,
+                            "width": 0.7022857666015625,
+                            "height": 0.06217031925916672,
+                            "page": 5
+                        },
+                        "content": "\"compliance risk\" means the risk of legal or regulatory sanctions, financial loss or reputational damage which a financial institution may suffer as a result of its failure to comply with legal and regulatory requirements applicable to its activities;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17759442329406738,
+                            "top": 0.18199171125888824,
+                            "width": 0.7028675079345703,
+                            "height": 0.06298412382602692,
+                            "page": 5
+                        },
+                        "content": "\"control function\" refers to a function that has a responsibility independent from business lines to provide objective assessment, reporting or assurance. This includes the risk management function, the compliance function and the internal audit function;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.179068922996521,
+                            "top": 0.2640591859817505,
+                            "width": 0.28173941373825073,
+                            "height": 0.011669202707707882,
+                            "page": 5
+                        },
+                        "content": "\"financial institution\" means-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1792360097169876,
+                            "top": 0.28047624230384827,
+                            "width": 0.34744659066200256,
+                            "height": 0.014476659707725048,
+                            "page": 5
+                        },
+                        "content": "(a) a licensed person under the FSA;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17874068021774292,
+                            "top": 0.2971942722797394,
+                            "width": 0.35356107354164124,
+                            "height": 0.014434373006224632,
+                            "page": 5
+                        },
+                        "content": "(b) a licensed person under the IFSA;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1787496954202652,
+                            "top": 0.3130134344100952,
+                            "width": 0.6377584934234619,
+                            "height": 0.014633667655289173,
+                            "page": 5
+                        },
+                        "content": "(c) a development financial institution prescribed under the DFIA; and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17875897884368896,
+                            "top": 0.32942962646484375,
+                            "width": 0.3028067946434021,
+                            "height": 0.014723751693964005,
+                            "page": 5
+                        },
+                        "content": "(d) a financial holding company;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17933759093284607,
+                            "top": 0.36216479539871216,
+                            "width": 0.3347024917602539,
+                            "height": 0.014356452040374279,
+                            "page": 5
+                        },
+                        "content": "\"large financial institution\" means-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17878688871860504,
+                            "top": 0.3784566819667816,
+                            "width": 0.7019776105880737,
+                            "height": 0.03095119073987007,
+                            "page": 5
+                        },
+                        "content": "(a) a financial institution with one or more business lines that are significant in terms of market share in the relevant industry; or"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17860287427902222,
+                            "top": 0.4099881947040558,
+                            "width": 0.7006245851516724,
+                            "height": 0.03212592378258705,
+                            "page": 5
+                        },
+                        "content": "(b) a financial institution with a large network of offices within or outside the country through operations of branches and subsidiaries;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1776471585035324,
+                            "top": 0.4606141746044159,
+                            "width": 0.7024182081222534,
+                            "height": 0.06338270008563995,
+                            "page": 5
+                        },
+                        "content": "\"legal and regulatory requirements\" means all laws, rules, standards and regulatory requirements (including any ruling of the Shariah Advisory Council) relevant to a financial institution's activities in all jurisdictions in which the financial institution, or any of its branches or subsidiaries, conducts activities."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11897160112857819,
+                            "top": 0.943636417388916,
+                            "width": 0.17856112122535706,
+                            "height": 0.012294153682887554,
+                            "page": 5
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.11877261102199554,
+                            "top": 0.04860176891088486,
+                            "width": 0.08845443278551102,
+                            "height": 0.012217970564961433,
+                            "page": 6
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8286299705505371,
+                            "top": 0.04856916144490242,
+                            "width": 0.051384326070547104,
+                            "height": 0.009874621406197548,
+                            "page": 6
+                        },
+                        "content": "4 of 10"
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## PART B POLICY REQUIREMENTS\n\n6 Responsibilities of the board and senior management\n\n- G\n\n\t- 6.1 The board and senior management assume primary roles in fostering a strong compliance culture within a financial institution by ensuring that officers understand their responsibilities in respect of compliance and feel comfortable raising concerns without fear of retaliation. In this respect, the board and senior management should create an environment which not only ensures that the financial institution and its officers comply with legal and regulatory requirements, but also encourages the ethical conduct that underlies such requirements.\n\n\t- Responsibilities of the board\n\n- S 6.2 The board is responsible for overseeing the management of a financial institution's compliance risk. In order to fulfil this duty, the board must-\n\n\t\t\t(a) approve the financial institution's compliance policy and oversee its implementation;\n\n\t\t\t(b) approve the establishment of the compliance function and the position of the CCO, and ensure that the compliance function and the CCO are provided with appropriate standing, authority and independence;\n\n\t\t\t(c) discuss compliance issues regularly, ensuring that adequate time and priority is provided in the board agenda to deliberate compliance issues and that such issues are resolved effectively and expeditiously; and\n\n\t\t\t(d) at least annually, evaluate the effectiveness of the financial institution's overall management of compliance risk, having regard to the assessments of senior management and internal audit, as well as interactions with the CCO.\n\n- S 6.3 In relation to the position of the CCO, the board must-\n\n\t\t\t(a) approve the appointment, remuneration and termination of the CCO¹;\n\n\t\t\t(b) ensure that the CCO has sufficient stature to allow for effective engagement with the CEO and other members of senior management;\n\n\t\t\t(c) engage with the CCO on a regular basis2 to provide the opportunity for the CCO to discuss issues faced by the compliance function;\n\n\t\t\t(d) provide the CCO with direct and unimpeded access to the board;\n\n\t\t\t(e) ensure that the CCO is supported with sufficient resources, including competent officers, to perform his duties effectively; and\n\n\t\t\t(f) where the CCO also carries out responsibilities in respect of other control functions3, be satisfied that a sound overall control environment will not be compromised by the combination of responsibilities performed by the CCO.",
+                "embed": "# Compliance (cont.)\n\n## PART B POLICY REQUIREMENTS\n\n6 Responsibilities of the board and senior management\n\n- G\n\n\t- 6.1 The board and senior management assume primary roles in fostering a strong compliance culture within a financial institution by ensuring that officers understand their responsibilities in respect of compliance and feel comfortable raising concerns without fear of retaliation. In this respect, the board and senior management should create an environment which not only ensures that the financial institution and its officers comply with legal and regulatory requirements, but also encourages the ethical conduct that underlies such requirements.\n\n\t- Responsibilities of the board\n\n- S 6.2 The board is responsible for overseeing the management of a financial institution's compliance risk. In order to fulfil this duty, the board must-\n\n\t\t\t(a) approve the financial institution's compliance policy and oversee its implementation;\n\n\t\t\t(b) approve the establishment of the compliance function and the position of the CCO, and ensure that the compliance function and the CCO are provided with appropriate standing, authority and independence;\n\n\t\t\t(c) discuss compliance issues regularly, ensuring that adequate time and priority is provided in the board agenda to deliberate compliance issues and that such issues are resolved effectively and expeditiously; and\n\n\t\t\t(d) at least annually, evaluate the effectiveness of the financial institution's overall management of compliance risk, having regard to the assessments of senior management and internal audit, as well as interactions with the CCO.\n\n- S 6.3 In relation to the position of the CCO, the board must-\n\n\t\t\t(a) approve the appointment, remuneration and termination of the CCO¹;\n\n\t\t\t(b) ensure that the CCO has sufficient stature to allow for effective engagement with the CEO and other members of senior management;\n\n\t\t\t(c) engage with the CCO on a regular basis2 to provide the opportunity for the CCO to discuss issues faced by the compliance function;\n\n\t\t\t(d) provide the CCO with direct and unimpeded access to the board;\n\n\t\t\t(e) ensure that the CCO is supported with sufficient resources, including competent officers, to perform his duties effectively; and\n\n\t\t\t(f) where the CCO also carries out responsibilities in respect of other control functions3, be satisfied that a sound overall control environment will not be compromised by the combination of responsibilities performed by the CCO.",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.11967218667268753,
+                            "top": 0.10073091834783554,
+                            "width": 0.402100533246994,
+                            "height": 0.014558111317455769,
+                            "page": 6
+                        },
+                        "content": "PART B POLICY REQUIREMENTS"
+                    },
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.1188773512840271,
+                            "top": 0.13884839415550232,
+                            "width": 0.5736518502235413,
+                            "height": 0.015251309610903263,
+                            "page": 6
+                        },
+                        "content": "6 Responsibilities of the board and senior management"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.05983907729387283,
+                            "top": 0.17693382501602173,
+                            "width": 0.014995058067142963,
+                            "height": 0.011369501240551472,
+                            "page": 6
+                        },
+                        "content": "- G"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.10139212012290955,
+                            "top": 0.17579102516174316,
+                            "width": 0.7849822044372559,
+                            "height": 0.13098284602165222,
+                            "page": 6
+                        },
+                        "content": "\t- 6.1 The board and senior management assume primary roles in fostering a strong compliance culture within a financial institution by ensuring that officers understand their responsibilities in respect of compliance and feel comfortable raising concerns without fear of retaliation. In this respect, the board and senior management should create an environment which not only ensures that the financial institution and its officers comply with legal and regulatory requirements, but also encourages the ethical conduct that underlies such requirements."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11587513238191605,
+                            "top": 0.32429447770118713,
+                            "width": 0.276449590921402,
+                            "height": 0.0143534941598773,
+                            "page": 6
+                        },
+                        "content": "\t- Responsibilities of the board"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06075825169682503,
+                            "top": 0.3396010100841522,
+                            "width": 0.8247682452201843,
+                            "height": 0.03217732533812523,
+                            "page": 6
+                        },
+                        "content": "- S 6.2 The board is responsible for overseeing the management of a financial institution's compliance risk. In order to fulfil this duty, the board must-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1763918697834015,
+                            "top": 0.37286892533302307,
+                            "width": 0.7090996503829956,
+                            "height": 0.03232574462890625,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(a) approve the financial institution's compliance policy and oversee its implementation;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17584176361560822,
+                            "top": 0.4053334891796112,
+                            "width": 0.7106797099113464,
+                            "height": 0.04894260689616203,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(b) approve the establishment of the compliance function and the position of the CCO, and ensure that the compliance function and the CCO are provided with appropriate standing, authority and independence;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1759977489709854,
+                            "top": 0.45508065819740295,
+                            "width": 0.7097911834716797,
+                            "height": 0.047742150723934174,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(c) discuss compliance issues regularly, ensuring that adequate time and priority is provided in the board agenda to deliberate compliance issues and that such issues are resolved effectively and expeditiously; and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1759381890296936,
+                            "top": 0.5038753151893616,
+                            "width": 0.7096222043037415,
+                            "height": 0.06233649700880051,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(d) at least annually, evaluate the effectiveness of the financial institution's overall management of compliance risk, having regard to the assessments of senior management and internal audit, as well as interactions with the CCO."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06103527918457985,
+                            "top": 0.5862206220626831,
+                            "width": 0.5991724133491516,
+                            "height": 0.015304873697459698,
+                            "page": 6
+                        },
+                        "content": "- S 6.3 In relation to the position of the CCO, the board must-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1766958236694336,
+                            "top": 0.5993866324424744,
+                            "width": 0.6646656394004822,
+                            "height": 0.018738925457000732,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(a) approve the appointment, remuneration and termination of the CCO¹;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1758585274219513,
+                            "top": 0.6184447407722473,
+                            "width": 0.7091957926750183,
+                            "height": 0.03256094083189964,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(b) ensure that the CCO has sufficient stature to allow for effective engagement with the CEO and other members of senior management;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17633239924907684,
+                            "top": 0.6497385501861572,
+                            "width": 0.7097852826118469,
+                            "height": 0.033400438725948334,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(c) engage with the CCO on a regular basis2 to provide the opportunity for the CCO to discuss issues faced by the compliance function;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17631620168685913,
+                            "top": 0.684040367603302,
+                            "width": 0.6268488168716431,
+                            "height": 0.016215087845921516,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(d) provide the CCO with direct and unimpeded access to the board;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1765880584716797,
+                            "top": 0.7009099125862122,
+                            "width": 0.7085263133049011,
+                            "height": 0.03202107176184654,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(e) ensure that the CCO is supported with sufficient resources, including competent officers, to perform his duties effectively; and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17572243511676788,
+                            "top": 0.7330474853515625,
+                            "width": 0.7102076411247253,
+                            "height": 0.06281856447458267,
+                            "page": 6
+                        },
+                        "content": "\t\t\t(f) where the CCO also carries out responsibilities in respect of other control functions3, be satisfied that a sound overall control environment will not be compromised by the combination of responsibilities performed by the CCO."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11832384020090103,
+                            "top": 0.8363669514656067,
+                            "width": 0.76288902759552,
+                            "height": 0.08392217755317688,
+                            "page": 6
+                        },
+                        "content": "1\nRefer to the policy documents on Fit and Proper Criteria issued on 28 June 2013 and Guidelines\non Fit and Proper for Key Responsible Persons for Development Financial Institutions issued on\n15 September 2011.\n2\nThe board should also consider engaging the CCO without the presence of other members of\nsenior management from time to time.\n3\nRefer to paragraphs 7.3 and 7.4."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11907879263162613,
+                            "top": 0.9436284899711609,
+                            "width": 0.17857690155506134,
+                            "height": 0.01228809729218483,
+                            "page": 6
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.11815258115530014,
+                            "top": 0.04832562431693077,
+                            "width": 0.089183509349823,
+                            "height": 0.012554263696074486,
+                            "page": 7
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8282973766326904,
+                            "top": 0.04840315505862236,
+                            "width": 0.05156714469194412,
+                            "height": 0.010169240646064281,
+                            "page": 7
+                        },
+                        "content": "5 of 10"
+                    }
+                ]
+            },
+            {
+                "content": "# Compliance (cont.)\n\n## Responsibilities of senior management\n\n- S 6.4 Senior management is collectively responsible for the effective management of a financial institution's compliance risk. In discharging this responsibility, senior management must-\n\n\t(a) establish a written compliance policy and ensure that it is kept up to date;\n\n\t(b) communicate the policy to all officers and ensure that appropriate remedial or disciplinary actions are taken if the compliance policy is breached;\n\n\t(c) establish a compliance function commensurate with the size, nature of operations and complexity of the financial institution, having regard to the requirements in paragraphs 7 and 8;\n\n\t(d) provide sufficient resources for the compliance function, including officers with the appropriate competencies and experience;\n\n\t(e) ensure that the compliance function is able to secure assistance from other functions with specific expertise (for example, legal, Shariah review or risk management) and has clear authority to engage with any officers and obtain access to relevant information for purposes of discharging its responsibilities;\n\n\t(f) ensure that the compliance function is able to engage relevant external expertise to undertake compliance assessments in specific areas4 where necessary;\n\n\t(g) ensure that the compliance function is kept informed of any organisational developments to facilitate the timely identification of compliance risk;\n\n\t(h) report to the board regularly on compliance issues and promptly on any material incidents of non-compliance (for example, failures that may attract a significant risk of legal or regulatory sanction);\n\n\t(i) report to the board at least annually on the effectiveness of the financial institution's overall management of compliance risk in such a manner as to assist the board in carrying out its responsibilities as set out in paragraph 6.2(d); and\n\n\t(j) inform the board of the CCO's cessation from office and the reasons leading to the cessation.\n\n- S 6.5 In relation to paragraph 6.4(a), senior management must set out principles to be followed by all officers and explain the main processes by which compliance risk is identified and managed. In particular, senior management must make clear in the compliance policy that the primary responsibility to manage compliance risk lies with the business lines and that the establishment of the compliance function does not substitute the primary role of business lines in managing compliance risk. This includes the responsibility of business lines to own, develop and update systems, policies, processes and procedures to manage compliance risk inherent in business activities.\n\n- S 6.6 For the purpose of paragraph 6.4(h), senior management must include the following information in its reports:\n\n\t\t(a) an identification and assessment of the compliance issues faced by the financial institution. These issues include any significant shortfalls arising from the implementation or execution of internal controls put in place to manage compliance risk;\n\n\t\t(b) compliance issues involving any member of senior management of the financial institution, and the status of any associated investigations or other actions being taken; and\n\n\t\t(c) plans to manage compliance issues, as well as the need for any additional policies or procedures to deal with any new compliance risk.\n\n- S 6.7 In relation to paragraph 6.4(i), senior management must take into account the outcome of the compliance function's assessment of compliance risk as described in paragraph 8.8. The reports must, at minimum, include an assessment of the key compliance risks faced by the financial institution and their implications on the financial institution's capacity to manage compliance risk going forward.\n\n\t- 7 Organisation of the compliance function\n\n- S 7.1 A financial institution must organise its compliance function in a manner that allows compliance risk to be managed effectively, taking into account the size, nature of operations and complexity of the financial institution's business and the legal and regulatory environment in the jurisdictions or sectors in which it has operations.\n\n- S 7.2 Where compliance function responsibilities are shared between a dedicated compliance unit and other control functions-\n\n\t\t(a) the allocation of the compliance function responsibilities, including that for timely communication and escalation of compliance issues to senior management and the board, must be clearly defined and documented in the compliance policy;\n\n\t\t(b) the CCO must have overall responsibility for coordinating the identification and management of compliance risk at the institution-wide level, and ensuring that compliance monitoring and testing are carried out consistently across the institution;\n\n\t\t(c) for the purpose of paragraph 7.2(b), the CCO must have a sound understanding of compliance risks which are under the purview of other control functions, including an understanding of controls applied to manage these risks;\n\n\t\t(d) arrangements for coordination among the control functions with the CCO and the compliance unit must be in place to ensure that the CCO is able to perform his responsibilities effectively. Arrangements should promote a view and approach to the management of compliance risk that is consistent across the organisation, including through adequate information flows and avenues to seek advice on compliance issues; and\n\n\t\t(e) senior management must ensure that officers in other control functions have the capacity and expertise to deliver their broader mandates while providing adequate focus to their compliance function responsibilities.\n\n- S 7.3 Where the CCO also assumes responsibilities for other control functions, the CCO must ensure that his independence and ability to provide sufficient time, focus and commitment to his responsibilities in respect of the compliance function is not impaired.\n\n- S 7.4 In relation to paragraphs 7.2 and 7.3-\n\n\t\t(a) the board must approve the sharing of compliance function responsibilities between a dedicated compliance unit and other control functions; and\n\n\t\t(b) compliance function responsibilities cannot be shared with, nor can the CCO assume responsibilities for, internal audit as such practices would render the independent review process described in paragraph 9.1 ineffective.\n\n- S 7.5 A large financial institution is required to establish a unit or department, headed by the CCO, which is dedicated to carrying out the compliance function responsibilities set out in paragraph 8. This is to provide necessary focus on the management of compliance risk in view of the inherent complexity and scale of operations of large financial institutions.\n\n- S 7.6 Notwithstanding paragraph 7.3, the CCO of a large financial institution is not allowed to assume the responsibilities of other control functions.\n\n\t- Independence\n\n- S 7.7 The compliance function must be independent of business lines in order to carry out its role as a control function effectively. As such, a financial institution must ensure that the compliance function is not placed in a position where there are real or potential conflicts in respect of its scope of responsibilities, reporting lines or remuneration.\n\n- S 7.8 A financial institution must ensure that the remuneration of the CCO and officers performing compliance functions are structured in a way that does not compromise their independence (for example, the remuneration must not be related to the financial performance of any particular business line) and must be primarily based on the achievement of their compliance function responsibilities.\n\n- G 7.9 A constructive and cooperative working relationship between the compliance function and business lines can improve the overall identification and management of compliance risk. In practice, this can involve the direct participation of the compliance function in providing legal and regulatory input to business processes or decisions5.\n\n- S 7.10 Where such arrangements referred to in paragraph 7.9 exist, a financial institution must ensure that-\n\n\t\t(a) the compliance function is not placed in a position of conflict;\n\n\t\t(b) the accountability of the compliance function is properly documented6 and\n\n\t\t(c) the compliance function is not prevented from highlighting compliance issues relating to any business decisions to the board or senior management, where necessary.\n\n\t- Resources\n\n- S 7.11 Officers undertaking compliance function responsibilities must have the necessary qualifications and experience. In particular, they must have a sound understanding of relevant legal and regulatory requirements and the implications of such requirements on a financial institution's operations. This includes possessing relevant local knowledge and expertise in respect of the legal and regulatory requirements applicable in the jurisdictions in which the financial institution conducts its activities.\n\n- S 7.12 A financial institution must ensure that the compliance function is kept abreast of developments in legal and regulatory requirements by undertaking regular and systematic programmes and training.\n\n- G 7.13 As one of the means to develop a strong compliance function, a financial institution should consider mandating or encouraging compliance function officers to possess accredited qualifications in the area of compliance.\n\n\t- 8 Responsibilities of the compliance function\n\n- S 8.1 A financial institution must ensure that the scope of responsibilities of the compliance function sufficiently cover all businesses, branches and subsidiaries, whether in or outside Malaysia and whether or not an activity is carried out by the financial institution itself or by a third party on its behalf. This means that a financial institution which conducts business internationally through local subsidiaries or branches, or in other jurisdictions where it does not have a physical presence, must also ensure compliance with all local legal and regulatory requirements applicable in those jurisdictions.\n\n- S 8.2 Where a financial institution has operations in more than one jurisdiction, it must consider the need to establish a local compliance unit or department to discharge independent compliance function responsibilities in respect of its operations in each of these jurisdictions. Where a local compliance unit or department is established, there must be appropriate mechanisms for coordination between the local compliance unit or department and the compliance function of the financial institution, to ensure that compliance risk is managed effectively.",
+                "embed": "# Compliance (cont.)\n\n## Responsibilities of senior management\n\n- S 6.4 Senior management is collectively responsible for the effective management of a financial institution's compliance risk. In discharging this responsibility, senior management must-\n\n\t(a) establish a written compliance policy and ensure that it is kept up to date;\n\n\t(b) communicate the policy to all officers and ensure that appropriate remedial or disciplinary actions are taken if the compliance policy is breached;\n\n\t(c) establish a compliance function commensurate with the size, nature of operations and complexity of the financial institution, having regard to the requirements in paragraphs 7 and 8;\n\n\t(d) provide sufficient resources for the compliance function, including officers with the appropriate competencies and experience;\n\n\t(e) ensure that the compliance function is able to secure assistance from other functions with specific expertise (for example, legal, Shariah review or risk management) and has clear authority to engage with any officers and obtain access to relevant information for purposes of discharging its responsibilities;\n\n\t(f) ensure that the compliance function is able to engage relevant external expertise to undertake compliance assessments in specific areas4 where necessary;\n\n\t(g) ensure that the compliance function is kept informed of any organisational developments to facilitate the timely identification of compliance risk;\n\n\t(h) report to the board regularly on compliance issues and promptly on any material incidents of non-compliance (for example, failures that may attract a significant risk of legal or regulatory sanction);\n\n\t(i) report to the board at least annually on the effectiveness of the financial institution's overall management of compliance risk in such a manner as to assist the board in carrying out its responsibilities as set out in paragraph 6.2(d); and\n\n\t(j) inform the board of the CCO's cessation from office and the reasons leading to the cessation.\n\n- S 6.5 In relation to paragraph 6.4(a), senior management must set out principles to be followed by all officers and explain the main processes by which compliance risk is identified and managed. In particular, senior management must make clear in the compliance policy that the primary responsibility to manage compliance risk lies with the business lines and that the establishment of the compliance function does not substitute the primary role of business lines in managing compliance risk. This includes the responsibility of business lines to own, develop and update systems, policies, processes and procedures to manage compliance risk inherent in business activities.\n\n- S 6.6 For the purpose of paragraph 6.4(h), senior management must include the following information in its reports:\n\n\t\t(a) an identification and assessment of the compliance issues faced by the financial institution. These issues include any significant shortfalls arising from the implementation or execution of internal controls put in place to manage compliance risk;\n\n\t\t(b) compliance issues involving any member of senior management of the financial institution, and the status of any associated investigations or other actions being taken; and\n\n\t\t(c) plans to manage compliance issues, as well as the need for any additional policies or procedures to deal with any new compliance risk.\n\n- S 6.7 In relation to paragraph 6.4(i), senior management must take into account the outcome of the compliance function's assessment of compliance risk as described in paragraph 8.8. The reports must, at minimum, include an assessment of the key compliance risks faced by the financial institution and their implications on the financial institution's capacity to manage compliance risk going forward.\n\n\t- 7 Organisation of the compliance function\n\n- S 7.1 A financial institution must organise its compliance function in a manner that allows compliance risk to be managed effectively, taking into account the size, nature of operations and complexity of the financial institution's business and the legal and regulatory environment in the jurisdictions or sectors in which it has operations.\n\n- S 7.2 Where compliance function responsibilities are shared between a dedicated compliance unit and other control functions-\n\n\t\t(a) the allocation of the compliance function responsibilities, including that for timely communication and escalation of compliance issues to senior management and the board, must be clearly defined and documented in the compliance policy;\n\n\t\t(b) the CCO must have overall responsibility for coordinating the identification and management of compliance risk at the institution-wide level, and ensuring that compliance monitoring and testing are carried out consistently across the institution;\n\n\t\t(c) for the purpose of paragraph 7.2(b), the CCO must have a sound understanding of compliance risks which are under the purview of other control functions, including an understanding of controls applied to manage these risks;\n\n\t\t(d) arrangements for coordination among the control functions with the CCO and the compliance unit must be in place to ensure that the CCO is able to perform his responsibilities effectively. Arrangements should promote a view and approach to the management of compliance risk that is consistent across the organisation, including through adequate information flows and avenues to seek advice on compliance issues; and\n\n\t\t(e) senior management must ensure that officers in other control functions have the capacity and expertise to deliver their broader mandates while providing adequate focus to their compliance function responsibilities.\n\n- S 7.3 Where the CCO also assumes responsibilities for other control functions, the CCO must ensure that his independence and ability to provide sufficient time, focus and commitment to his responsibilities in respect of the compliance function is not impaired.\n\n- S 7.4 In relation to paragraphs 7.2 and 7.3-\n\n\t\t(a) the board must approve the sharing of compliance function responsibilities between a dedicated compliance unit and other control functions; and\n\n\t\t(b) compliance function responsibilities cannot be shared with, nor can the CCO assume responsibilities for, internal audit as such practices would render the independent review process described in paragraph 9.1 ineffective.\n\n- S 7.5 A large financial institution is required to establish a unit or department, headed by the CCO, which is dedicated to carrying out the compliance function responsibilities set out in paragraph 8. This is to provide necessary focus on the management of compliance risk in view of the inherent complexity and scale of operations of large financial institutions.\n\n- S 7.6 Notwithstanding paragraph 7.3, the CCO of a large financial institution is not allowed to assume the responsibilities of other control functions.\n\n\t- Independence\n\n- S 7.7 The compliance function must be independent of business lines in order to carry out its role as a control function effectively. As such, a financial institution must ensure that the compliance function is not placed in a position where there are real or potential conflicts in respect of its scope of responsibilities, reporting lines or remuneration.\n\n- S 7.8 A financial institution must ensure that the remuneration of the CCO and officers performing compliance functions are structured in a way that does not compromise their independence (for example, the remuneration must not be related to the financial performance of any particular business line) and must be primarily based on the achievement of their compliance function responsibilities.\n\n- G 7.9 A constructive and cooperative working relationship between the compliance function and business lines can improve the overall identification and management of compliance risk. In practice, this can involve the direct participation of the compliance function in providing legal and regulatory input to business processes or decisions5.\n\n- S 7.10 Where such arrangements referred to in paragraph 7.9 exist, a financial institution must ensure that-\n\n\t\t(a) the compliance function is not placed in a position of conflict;\n\n\t\t(b) the accountability of the compliance function is properly documented6 and\n\n\t\t(c) the compliance function is not prevented from highlighting compliance issues relating to any business decisions to the board or senior management, where necessary.\n\n\t- Resources\n\n- S 7.11 Officers undertaking compliance function responsibilities must have the necessary qualifications and experience. In particular, they must have a sound understanding of relevant legal and regulatory requirements and the implications of such requirements on a financial institution's operations. This includes possessing relevant local knowledge and expertise in respect of the legal and regulatory requirements applicable in the jurisdictions in which the financial institution conducts its activities.\n\n- S 7.12 A financial institution must ensure that the compliance function is kept abreast of developments in legal and regulatory requirements by undertaking regular and systematic programmes and training.\n\n- G 7.13 As one of the means to develop a strong compliance function, a financial institution should consider mandating or encouraging compliance function officers to possess accredited qualifications in the area of compliance.\n\n\t- 8 Responsibilities of the compliance function\n\n- S 8.1 A financial institution must ensure that the scope of responsibilities of the compliance function sufficiently cover all businesses, branches and subsidiaries, whether in or outside Malaysia and whether or not an activity is carried out by the financial institution itself or by a third party on its behalf. This means that a financial institution which conducts business internationally through local subsidiaries or branches, or in other jurisdictions where it does not have a physical presence, must also ensure compliance with all local legal and regulatory requirements applicable in those jurisdictions.\n\n- S 8.2 Where a financial institution has operations in more than one jurisdiction, it must consider the need to establish a local compliance unit or department to discharge independent compliance function responsibilities in respect of its operations in each of these jurisdictions. Where a local compliance unit or department is established, there must be appropriate mechanisms for coordination between the local compliance unit or department and the compliance function of the financial institution, to ensure that compliance risk is managed effectively.",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.11629561334848404,
+                            "top": 0.10037972033023834,
+                            "width": 0.37596866488456726,
+                            "height": 0.01446125004440546,
+                            "page": 7
+                        },
+                        "content": "Responsibilities of senior management"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06204609200358391,
+                            "top": 0.11600108444690704,
+                            "width": 0.8246763944625854,
+                            "height": 0.04797389358282089,
+                            "page": 7
+                        },
+                        "content": "- S 6.4 Senior management is collectively responsible for the effective management of a financial institution's compliance risk. In discharging this responsibility, senior management must-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17621400952339172,
+                            "top": 0.16564875841140747,
+                            "width": 0.7007591724395752,
+                            "height": 0.015032551251351833,
+                            "page": 7
+                        },
+                        "content": "\t(a) establish a written compliance policy and ensure that it is kept up to date;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1762147694826126,
+                            "top": 0.18180802464485168,
+                            "width": 0.7091675400733948,
+                            "height": 0.047089241445064545,
+                            "page": 7
+                        },
+                        "content": "\t(b) communicate the policy to all officers and ensure that appropriate remedial or disciplinary actions are taken if the compliance policy is breached;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17621706426143646,
+                            "top": 0.23106101155281067,
+                            "width": 0.7100035548210144,
+                            "height": 0.04741211608052254,
+                            "page": 7
+                        },
+                        "content": "\t(c) establish a compliance function commensurate with the size, nature of operations and complexity of the financial institution, having regard to the requirements in paragraphs 7 and 8;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17621934413909912,
+                            "top": 0.28022193908691406,
+                            "width": 0.709068775177002,
+                            "height": 0.03132227435708046,
+                            "page": 7
+                        },
+                        "content": "\t(d) provide sufficient resources for the compliance function, including officers with the appropriate competencies and experience;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17642249166965485,
+                            "top": 0.3126484155654907,
+                            "width": 0.709682047367096,
+                            "height": 0.08014433830976486,
+                            "page": 7
+                        },
+                        "content": "\t(e) ensure that the compliance function is able to secure assistance from other functions with specific expertise (for example, legal, Shariah review or risk management) and has clear authority to engage with any officers and obtain access to relevant information for purposes of discharging its responsibilities;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1766279637813568,
+                            "top": 0.3949447572231293,
+                            "width": 0.7082091569900513,
+                            "height": 0.04744667187333107,
+                            "page": 7
+                        },
+                        "content": "\t(f) ensure that the compliance function is able to engage relevant external expertise to undertake compliance assessments in specific areas4 where necessary;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17663024365901947,
+                            "top": 0.443800687789917,
+                            "width": 0.7076979875564575,
+                            "height": 0.03150887414813042,
+                            "page": 7
+                        },
+                        "content": "\t(g) ensure that the compliance function is kept informed of any organisational developments to facilitate the timely identification of compliance risk;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17643015086650848,
+                            "top": 0.47719573974609375,
+                            "width": 0.7093079686164856,
+                            "height": 0.04740394651889801,
+                            "page": 7
+                        },
+                        "content": "\t(h) report to the board regularly on compliance issues and promptly on any material incidents of non-compliance (for example, failures that may attract a significant risk of legal or regulatory sanction);"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1766340732574463,
+                            "top": 0.5259948372840881,
+                            "width": 0.7090150713920593,
+                            "height": 0.06395746022462845,
+                            "page": 7
+                        },
+                        "content": "\t(i) report to the board at least annually on the effectiveness of the financial institution's overall management of compliance risk in such a manner as to assist the board in carrying out its responsibilities as set out in paragraph 6.2(d); and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17643548548221588,
+                            "top": 0.5915001034736633,
+                            "width": 0.7082674503326416,
+                            "height": 0.03164960816502571,
+                            "page": 7
+                        },
+                        "content": "\t(j) inform the board of the CCO's cessation from office and the reasons leading to the cessation."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.062051087617874146,
+                            "top": 0.640476644039154,
+                            "width": 0.8231892585754395,
+                            "height": 0.1461186707019806,
+                            "page": 7
+                        },
+                        "content": "- S 6.5 In relation to paragraph 6.4(a), senior management must set out principles to be followed by all officers and explain the main processes by which compliance risk is identified and managed. In particular, senior management must make clear in the compliance policy that the primary responsibility to manage compliance risk lies with the business lines and that the establishment of the compliance function does not substitute the primary role of business lines in managing compliance risk. This includes the responsibility of business lines to own, develop and update systems, policies, processes and procedures to manage compliance risk inherent in business activities."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11764674633741379,
+                            "top": 0.9045050740242004,
+                            "width": 0.6187331080436707,
+                            "height": 0.01505273301154375,
+                            "page": 7
+                        },
+                        "content": "4\nFor example, to conduct investigations of possible incidents of non-compliance."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11905249208211899,
+                            "top": 0.9435940384864807,
+                            "width": 0.17855402827262878,
+                            "height": 0.012401613406836987,
+                            "page": 7
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.11842108517885208,
+                            "top": 0.04844915121793747,
+                            "width": 0.08873002231121063,
+                            "height": 0.012391503900289536,
+                            "page": 8
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8281232714653015,
+                            "top": 0.04851120337843895,
+                            "width": 0.05163780227303505,
+                            "height": 0.009957710281014442,
+                            "page": 8
+                        },
+                        "content": "6 of 10"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06106167286634445,
+                            "top": 0.10021417587995529,
+                            "width": 0.8238763213157654,
+                            "height": 0.03094574809074402,
+                            "page": 8
+                        },
+                        "content": "- S 6.6 For the purpose of paragraph 6.4(h), senior management must include the following information in its reports:"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1763777732849121,
+                            "top": 0.13250814378261566,
+                            "width": 0.7089900970458984,
+                            "height": 0.06408189982175827,
+                            "page": 8
+                        },
+                        "content": "\t\t(a) an identification and assessment of the compliance issues faced by the financial institution. These issues include any significant shortfalls arising from the implementation or execution of internal controls put in place to manage compliance risk;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17637038230895996,
+                            "top": 0.19802364706993103,
+                            "width": 0.7097339034080505,
+                            "height": 0.04813505709171295,
+                            "page": 8
+                        },
+                        "content": "\t\t(b) compliance issues involving any member of senior management of the financial institution, and the status of any associated investigations or other actions being taken; and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1773737072944641,
+                            "top": 0.24733243882656097,
+                            "width": 0.7077406644821167,
+                            "height": 0.03123200684785843,
+                            "page": 8
+                        },
+                        "content": "\t\t(c) plans to manage compliance issues, as well as the need for any additional policies or procedures to deal with any new compliance risk."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.061716411262750626,
+                            "top": 0.29680123925209045,
+                            "width": 0.8232949376106262,
+                            "height": 0.0967971459031105,
+                            "page": 8
+                        },
+                        "content": "- S 6.7 In relation to paragraph 6.4(i), senior management must take into account the outcome of the compliance function's assessment of compliance risk as described in paragraph 8.8. The reports must, at minimum, include an assessment of the key compliance risks faced by the financial institution and their implications on the financial institution's capacity to manage compliance risk going forward."
+                    },
+                    {
+                        "type": "Section Header",
+                        "bbox": {
+                            "left": 0.11978224664926529,
+                            "top": 0.4150858521461487,
+                            "width": 0.4438144564628601,
+                            "height": 0.0146074453368783,
+                            "page": 8
+                        },
+                        "content": "\t- 7 Organisation of the compliance function"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06123565137386322,
+                            "top": 0.4522160291671753,
+                            "width": 0.8247426152229309,
+                            "height": 0.08076838403940201,
+                            "page": 8
+                        },
+                        "content": "- S 7.1 A financial institution must organise its compliance function in a manner that allows compliance risk to be managed effectively, taking into account the size, nature of operations and complexity of the financial institution's business and the legal and regulatory environment in the jurisdictions or sectors in which it has operations."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06122613698244095,
+                            "top": 0.5504457354545593,
+                            "width": 0.8227865695953369,
+                            "height": 0.031515203416347504,
+                            "page": 8
+                        },
+                        "content": "- S 7.2 Where compliance function responsibilities are shared between a dedicated compliance unit and other control functions-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17731882631778717,
+                            "top": 0.5833917856216431,
+                            "width": 0.7082092761993408,
+                            "height": 0.06434928625822067,
+                            "page": 8
+                        },
+                        "content": "\t\t(a) the allocation of the compliance function responsibilities, including that for timely communication and escalation of compliance issues to senior management and the board, must be clearly defined and documented in the compliance policy;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17751075327396393,
+                            "top": 0.6492383480072021,
+                            "width": 0.7075177431106567,
+                            "height": 0.06393703818321228,
+                            "page": 8
+                        },
+                        "content": "\t\t(b) the CCO must have overall responsibility for coordinating the identification and management of compliance risk at the institution-wide level, and ensuring that compliance monitoring and testing are carried out consistently across the institution;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17729932069778442,
+                            "top": 0.7148523330688477,
+                            "width": 0.7088685631752014,
+                            "height": 0.06406053900718689,
+                            "page": 8
+                        },
+                        "content": "\t\t(c) for the purpose of paragraph 7.2(b), the CCO must have a sound understanding of compliance risks which are under the purview of other control functions, including an understanding of controls applied to manage these risks;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17748641967773438,
+                            "top": 0.780353844165802,
+                            "width": 0.7076911330223083,
+                            "height": 0.09657937288284302,
+                            "page": 8
+                        },
+                        "content": "\t\t(d) arrangements for coordination among the control functions with the CCO and the compliance unit must be in place to ensure that the CCO is able to perform his responsibilities effectively. Arrangements should promote a view and approach to the management of compliance risk that is consistent across the organisation, including through adequate information flows and avenues to seek advice on compliance issues; and"
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11906826496124268,
+                            "top": 0.9436309933662415,
+                            "width": 0.17843790352344513,
+                            "height": 0.012356759048998356,
+                            "page": 8
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.1187344416975975,
+                            "top": 0.04859136417508125,
+                            "width": 0.08847835659980774,
+                            "height": 0.012207254767417908,
+                            "page": 9
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8284996151924133,
+                            "top": 0.04847067967057228,
+                            "width": 0.051364053040742874,
+                            "height": 0.010063793510198593,
+                            "page": 9
+                        },
+                        "content": "7 of 10"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17637257277965546,
+                            "top": 0.09957676380872726,
+                            "width": 0.7083317041397095,
+                            "height": 0.048627618700265884,
+                            "page": 9
+                        },
+                        "content": "\t\t(e) senior management must ensure that officers in other control functions have the capacity and expertise to deliver their broader mandates while providing adequate focus to their compliance function responsibilities."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06095804646611214,
+                            "top": 0.16502279043197632,
+                            "width": 0.8239705562591553,
+                            "height": 0.06492720544338226,
+                            "page": 9
+                        },
+                        "content": "- S 7.3 Where the CCO also assumes responsibilities for other control functions, the CCO must ensure that his independence and ability to provide sufficient time, focus and commitment to his responsibilities in respect of the compliance function is not impaired."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06103774905204773,
+                            "top": 0.2470092922449112,
+                            "width": 0.4523596167564392,
+                            "height": 0.015059052966535091,
+                            "page": 9
+                        },
+                        "content": "- S 7.4 In relation to paragraphs 7.2 and 7.3-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17677809298038483,
+                            "top": 0.26304391026496887,
+                            "width": 0.7077774405479431,
+                            "height": 0.0482030063867569,
+                            "page": 9
+                        },
+                        "content": "\t\t(a) the board must approve the sharing of compliance function responsibilities between a dedicated compliance unit and other control functions; and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1767396330833435,
+                            "top": 0.31239646673202515,
+                            "width": 0.7075261473655701,
+                            "height": 0.06240911781787872,
+                            "page": 9
+                        },
+                        "content": "\t\t(b) compliance function responsibilities cannot be shared with, nor can the CCO assume responsibilities for, internal audit as such practices would render the independent review process described in paragraph 9.1 ineffective."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.060798946768045425,
+                            "top": 0.39415407180786133,
+                            "width": 0.8242278099060059,
+                            "height": 0.08177801221609116,
+                            "page": 9
+                        },
+                        "content": "- S 7.5 A large financial institution is required to establish a unit or department, headed by the CCO, which is dedicated to carrying out the compliance function responsibilities set out in paragraph 8. This is to provide necessary focus on the management of compliance risk in view of the inherent complexity and scale of operations of large financial institutions."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.061272017657756805,
+                            "top": 0.4922374486923218,
+                            "width": 0.8238071799278259,
+                            "height": 0.031932175159454346,
+                            "page": 9
+                        },
+                        "content": "- S 7.6 Notwithstanding paragraph 7.3, the CCO of a large financial institution is not allowed to assume the responsibilities of other control functions."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11631713062524796,
+                            "top": 0.5429319739341736,
+                            "width": 0.13564425706863403,
+                            "height": 0.014047225005924702,
+                            "page": 9
+                        },
+                        "content": "\t- Independence"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06094525754451752,
+                            "top": 0.5578982830047607,
+                            "width": 0.8238281607627869,
+                            "height": 0.08166135102510452,
+                            "page": 9
+                        },
+                        "content": "- S 7.7 The compliance function must be independent of business lines in order to carry out its role as a control function effectively. As such, a financial institution must ensure that the compliance function is not placed in a position where there are real or potential conflicts in respect of its scope of responsibilities, reporting lines or remuneration."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.060870859771966934,
+                            "top": 0.6562669277191162,
+                            "width": 0.8244546055793762,
+                            "height": 0.09833705425262451,
+                            "page": 9
+                        },
+                        "content": "- S 7.8 A financial institution must ensure that the remuneration of the CCO and officers performing compliance functions are structured in a way that does not compromise their independence (for example, the remuneration must not be related to the financial performance of any particular business line) and must be primarily based on the achievement of their compliance function responsibilities."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.059798695147037506,
+                            "top": 0.7709450721740723,
+                            "width": 0.8262778520584106,
+                            "height": 0.08185988664627075,
+                            "page": 9
+                        },
+                        "content": "- G 7.9 A constructive and cooperative working relationship between the compliance function and business lines can improve the overall identification and management of compliance risk. In practice, this can involve the direct participation of the compliance function in providing legal and regulatory input to business processes or decisions5."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11829980462789536,
+                            "top": 0.9045712947845459,
+                            "width": 0.5293550491333008,
+                            "height": 0.015351274982094765,
+                            "page": 9
+                        },
+                        "content": "5\nFor example, through representation on a new products committee."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11913971602916718,
+                            "top": 0.9435815811157227,
+                            "width": 0.17821422219276428,
+                            "height": 0.012262523174285889,
+                            "page": 9
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.1188294067978859,
+                            "top": 0.048701222985982895,
+                            "width": 0.08829846233129501,
+                            "height": 0.012015633285045624,
+                            "page": 10
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8289595246315002,
+                            "top": 0.04858945682644844,
+                            "width": 0.050832826644182205,
+                            "height": 0.009888133965432644,
+                            "page": 10
+                        },
+                        "content": "8 of 10"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.061016447842121124,
+                            "top": 0.09955813735723495,
+                            "width": 0.8240810632705688,
+                            "height": 0.02927055023610592,
+                            "page": 10
+                        },
+                        "content": "- S 7.10 Where such arrangements referred to in paragraph 7.9 exist, a financial institution must ensure that-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17636941373348236,
+                            "top": 0.1323213428258896,
+                            "width": 0.5879548788070679,
+                            "height": 0.015909874811768532,
+                            "page": 10
+                        },
+                        "content": "\t\t(a) the compliance function is not placed in a position of conflict;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17655080556869507,
+                            "top": 0.14640261232852936,
+                            "width": 0.7050938010215759,
+                            "height": 0.03202241286635399,
+                            "page": 10
+                        },
+                        "content": "\t\t(b) the accountability of the compliance function is properly documented6 and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17651595175266266,
+                            "top": 0.1813964545726776,
+                            "width": 0.7090973854064941,
+                            "height": 0.04856529459357262,
+                            "page": 10
+                        },
+                        "content": "\t\t(c) the compliance function is not prevented from highlighting compliance issues relating to any business decisions to the board or senior management, where necessary."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1170949712395668,
+                            "top": 0.2477380931377411,
+                            "width": 0.10198887437582016,
+                            "height": 0.011490348726511002,
+                            "page": 10
+                        },
+                        "content": "\t- Resources"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.060587331652641296,
+                            "top": 0.2633134126663208,
+                            "width": 0.8241912722587585,
+                            "height": 0.11126817762851715,
+                            "page": 10
+                        },
+                        "content": "- S 7.11 Officers undertaking compliance function responsibilities must have the necessary qualifications and experience. In particular, they must have a sound understanding of relevant legal and regulatory requirements and the implications of such requirements on a financial institution's operations. This includes possessing relevant local knowledge and expertise in respect of the legal and regulatory requirements applicable in the jurisdictions in which the financial institution conducts its activities."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06079026684165001,
+                            "top": 0.3942846953868866,
+                            "width": 0.8252944350242615,
+                            "height": 0.04861094057559967,
+                            "page": 10
+                        },
+                        "content": "- S 7.12 A financial institution must ensure that the compliance function is kept abreast of developments in legal and regulatory requirements by undertaking regular and systematic programmes and training."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06023889034986496,
+                            "top": 0.4599452316761017,
+                            "width": 0.824762761592865,
+                            "height": 0.048326846212148666,
+                            "page": 10
+                        },
+                        "content": "- G 7.13 As one of the means to develop a strong compliance function, a financial institution should consider mandating or encouraging compliance function officers to possess accredited qualifications in the area of compliance."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11901407688856125,
+                            "top": 0.5293025970458984,
+                            "width": 0.4748503863811493,
+                            "height": 0.01518462784588337,
+                            "page": 10
+                        },
+                        "content": "\t- 8 Responsibilities of the compliance function"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.060355059802532196,
+                            "top": 0.566472053527832,
+                            "width": 0.8246958255767822,
+                            "height": 0.13059194386005402,
+                            "page": 10
+                        },
+                        "content": "- S 8.1 A financial institution must ensure that the scope of responsibilities of the compliance function sufficiently cover all businesses, branches and subsidiaries, whether in or outside Malaysia and whether or not an activity is carried out by the financial institution itself or by a third party on its behalf. This means that a financial institution which conducts business internationally through local subsidiaries or branches, or in other jurisdictions where it does not have a physical presence, must also ensure compliance with all local legal and regulatory requirements applicable in those jurisdictions."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.0610051229596138,
+                            "top": 0.7141790390014648,
+                            "width": 0.8251497745513916,
+                            "height": 0.13071024417877197,
+                            "page": 10
+                        },
+                        "content": "- S 8.2 Where a financial institution has operations in more than one jurisdiction, it must consider the need to establish a local compliance unit or department to discharge independent compliance function responsibilities in respect of its operations in each of these jurisdictions. Where a local compliance unit or department is established, there must be appropriate mechanisms for coordination between the local compliance unit or department and the compliance function of the financial institution, to ensure that compliance risk is managed effectively."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11837989091873169,
+                            "top": 0.8910638093948364,
+                            "width": 0.7621980309486389,
+                            "height": 0.02787819132208824,
+                            "page": 10
+                        },
+                        "content": "6\nIn the case of a committee, the role of the compliance function may be outlined in the terms of\nreference or charter."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11927197128534317,
+                            "top": 0.9436785578727722,
+                            "width": 0.17810507118701935,
+                            "height": 0.012140241451561451,
+                            "page": 10
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    }
+                ]
+            },
+            {
+                "content": "- S 8.3 The manner in which the compliance function discharges its responsibilities must be reflective of its assessment of the level and impact of the compliance risk facing a financial institution. Accordingly, the compliance function must give greater focus to areas where compliance risk is assessed to be high, while preserving appropriate coverage of all compliance risks identified.\n\n\t- Identification, assessment and monitoring of compliance risk\n\n- S 8.4 The compliance function must identify and assess the compliance risk associated with a financial institution's activities. This requires the compliance function to have adequate knowledge and exposure to key business processes of the financial institution and keep up with material changes in the financial institution's business.\n\n- S 8.5 The compliance function must use a range of indicators to identify, assess and systematically monitor the level of compliance risk. These indicators may be qualitative or quantitative in nature and may include, but are not limited to, trends in customer complaints, irregular trading or payments activity and assessments by regulatory authorities.\n\n- S 8.6 The compliance function must perform appropriate tests to evaluate the adequacy of internal controls put in place to manage compliance risk and promptly follow up on any identified deficiencies and plans to address such deficiencies.\n\n- S 8.7 Where the testing of internal controls is performed by the compliance function on a sampling basis-\n\n\t\t(a) such testing must be commensurate with the level of compliance risk identified in the business process (for example, as reflected in the frequency or volume of transactions); and\n\n\t\t(b) the sample must be representative of the different types of internal controls implemented at different stages of business processes within a financial institution.\n\n\t- Reporting of compliance risk\n\n- S 8.8 The CCO must report to senior management on a regular basis the findings and analyses of compliance risk. The report must include at minimum-\n\n\t\t(a) the results of the compliance risk assessment undertaken during the assessment period, highlighting key changes in the compliance risk profile of a financial institution as well as areas where greater attention by senior management would be needed;\n\n\t\t(b) a summary of incidents of non-compliance and deficiencies in the management of compliance risk in various parts of the financial institution;\n\n\t\t(c) an assessment of the impact (both financial and non-financial) of such incidents on the financial institution (for example, fines, administrative or\n\n\t\t\t- otherwise, or other disciplinary actions taken by any regulatory authority in respect of any officers of the financial institution);\n\n\t\t(d) recommendations of corrective measures to address incidents of non- compliance and deficiencies in the management of compliance risk, including disciplinary actions;\n\n\t\t(e) a record of corrective measures already taken and an assessment of the adequacy and effectiveness of such measures; and\n\n\t\t(f) insights and observations regarding the compliance culture that exists in the organisation or in specific parts of the organisation that may give rise to compliance concerns.\n\n- S 8.9 The CCO must ensure that the reports referred to in paragraph 8.8 are readily available to the internal audit function of the financial institution, the Bank and other regulatory authorities upon request.\n\n\t- Advisory\n\n- S 8.10 The compliance function must advise the board, senior management and officers on legal and regulatory requirements. This includes keeping them informed on the developments affecting legal and regulatory requirements and providing the board and senior management with an assessment of their implications on a financial institution's compliance risk profile and capacity to manage compliance risk going forward.\n\n\t- Guidance and training\n\n- S 8.11 The compliance function is responsible for ensuring that adequate training is provided to officers of a financial institution on relevant legal and regulatory requirements governing the financial institution's activities. Such training must be timely and must clearly explain how the requirements apply in the specific context of the financial institution's operations. The compliance function must be able to provide guidance to officers of the financial institution on the implementation of internal controls to manage compliance risk.\n\n\t- 9 Responsibilities of the internal audit function\n\n- S 9.1 A financial institution must ensure that there is a clear separation of the internal audit function and other functions carrying out compliance function responsibilities. Compliance risk must be included in the risk assessment methodology of the internal audit function, and an audit programme that covers the adequacy and effectiveness of the other functions carrying out compliance function responsibilities should be established, including testing of controls commensurate with the perceived level of risk.\n\n- S 9.2 The internal audit function is required to inform senior management, including the CCO, of any incidents of non-compliance which it discovers.",
+                "embed": "- S 8.3 The manner in which the compliance function discharges its responsibilities must be reflective of its assessment of the level and impact of the compliance risk facing a financial institution. Accordingly, the compliance function must give greater focus to areas where compliance risk is assessed to be high, while preserving appropriate coverage of all compliance risks identified.\n\n\t- Identification, assessment and monitoring of compliance risk\n\n- S 8.4 The compliance function must identify and assess the compliance risk associated with a financial institution's activities. This requires the compliance function to have adequate knowledge and exposure to key business processes of the financial institution and keep up with material changes in the financial institution's business.\n\n- S 8.5 The compliance function must use a range of indicators to identify, assess and systematically monitor the level of compliance risk. These indicators may be qualitative or quantitative in nature and may include, but are not limited to, trends in customer complaints, irregular trading or payments activity and assessments by regulatory authorities.\n\n- S 8.6 The compliance function must perform appropriate tests to evaluate the adequacy of internal controls put in place to manage compliance risk and promptly follow up on any identified deficiencies and plans to address such deficiencies.\n\n- S 8.7 Where the testing of internal controls is performed by the compliance function on a sampling basis-\n\n\t\t(a) such testing must be commensurate with the level of compliance risk identified in the business process (for example, as reflected in the frequency or volume of transactions); and\n\n\t\t(b) the sample must be representative of the different types of internal controls implemented at different stages of business processes within a financial institution.\n\n\t- Reporting of compliance risk\n\n- S 8.8 The CCO must report to senior management on a regular basis the findings and analyses of compliance risk. The report must include at minimum-\n\n\t\t(a) the results of the compliance risk assessment undertaken during the assessment period, highlighting key changes in the compliance risk profile of a financial institution as well as areas where greater attention by senior management would be needed;\n\n\t\t(b) a summary of incidents of non-compliance and deficiencies in the management of compliance risk in various parts of the financial institution;\n\n\t\t(c) an assessment of the impact (both financial and non-financial) of such incidents on the financial institution (for example, fines, administrative or\n\n\t\t\t- otherwise, or other disciplinary actions taken by any regulatory authority in respect of any officers of the financial institution);\n\n\t\t(d) recommendations of corrective measures to address incidents of non- compliance and deficiencies in the management of compliance risk, including disciplinary actions;\n\n\t\t(e) a record of corrective measures already taken and an assessment of the adequacy and effectiveness of such measures; and\n\n\t\t(f) insights and observations regarding the compliance culture that exists in the organisation or in specific parts of the organisation that may give rise to compliance concerns.\n\n- S 8.9 The CCO must ensure that the reports referred to in paragraph 8.8 are readily available to the internal audit function of the financial institution, the Bank and other regulatory authorities upon request.\n\n\t- Advisory\n\n- S 8.10 The compliance function must advise the board, senior management and officers on legal and regulatory requirements. This includes keeping them informed on the developments affecting legal and regulatory requirements and providing the board and senior management with an assessment of their implications on a financial institution's compliance risk profile and capacity to manage compliance risk going forward.\n\n\t- Guidance and training\n\n- S 8.11 The compliance function is responsible for ensuring that adequate training is provided to officers of a financial institution on relevant legal and regulatory requirements governing the financial institution's activities. Such training must be timely and must clearly explain how the requirements apply in the specific context of the financial institution's operations. The compliance function must be able to provide guidance to officers of the financial institution on the implementation of internal controls to manage compliance risk.\n\n\t- 9 Responsibilities of the internal audit function\n\n- S 9.1 A financial institution must ensure that there is a clear separation of the internal audit function and other functions carrying out compliance function responsibilities. Compliance risk must be included in the risk assessment methodology of the internal audit function, and an audit programme that covers the adequacy and effectiveness of the other functions carrying out compliance function responsibilities should be established, including testing of controls commensurate with the perceived level of risk.\n\n- S 9.2 The internal audit function is required to inform senior management, including the CCO, of any incidents of non-compliance which it discovers.",
+                "enriched": null,
+                "enrichment_success": false,
+                "blocks": [
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.11871930956840515,
+                            "top": 0.04856293648481369,
+                            "width": 0.08851771056652069,
+                            "height": 0.012280456721782684,
+                            "page": 11
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8286824226379395,
+                            "top": 0.04844583198428154,
+                            "width": 0.051471974700689316,
+                            "height": 0.010075561702251434,
+                            "page": 11
+                        },
+                        "content": "9 of 10"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06146983057260513,
+                            "top": 0.099384605884552,
+                            "width": 0.823824405670166,
+                            "height": 0.08218538761138916,
+                            "page": 11
+                        },
+                        "content": "- S 8.3 The manner in which the compliance function discharges its responsibilities must be reflective of its assessment of the level and impact of the compliance risk facing a financial institution. Accordingly, the compliance function must give greater focus to areas where compliance risk is assessed to be high, while preserving appropriate coverage of all compliance risks identified."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1164177656173706,
+                            "top": 0.1975799798965454,
+                            "width": 0.5878803730010986,
+                            "height": 0.01586645469069481,
+                            "page": 11
+                        },
+                        "content": "\t- Identification, assessment and monitoring of compliance risk"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06157734990119934,
+                            "top": 0.21413585543632507,
+                            "width": 0.8244060277938843,
+                            "height": 0.07930110394954681,
+                            "page": 11
+                        },
+                        "content": "- S 8.4 The compliance function must identify and assess the compliance risk associated with a financial institution's activities. This requires the compliance function to have adequate knowledge and exposure to key business processes of the financial institution and keep up with material changes in the financial institution's business."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.060787398368120193,
+                            "top": 0.31194210052490234,
+                            "width": 0.8246362805366516,
+                            "height": 0.08196262270212173,
+                            "page": 11
+                        },
+                        "content": "- S 8.5 The compliance function must use a range of indicators to identify, assess and systematically monitor the level of compliance risk. These indicators may be qualitative or quantitative in nature and may include, but are not limited to, trends in customer complaints, irregular trading or payments activity and assessments by regulatory authorities."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06097225099802017,
+                            "top": 0.4103037416934967,
+                            "width": 0.8241735696792603,
+                            "height": 0.06342371553182602,
+                            "page": 11
+                        },
+                        "content": "- S 8.6 The compliance function must perform appropriate tests to evaluate the adequacy of internal controls put in place to manage compliance risk and promptly follow up on any identified deficiencies and plans to address such deficiencies."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.060929205268621445,
+                            "top": 0.4918139576911926,
+                            "width": 0.8237910866737366,
+                            "height": 0.03310907632112503,
+                            "page": 11
+                        },
+                        "content": "- S 8.7 Where the testing of internal controls is performed by the compliance function on a sampling basis-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17649661004543304,
+                            "top": 0.5254982709884644,
+                            "width": 0.7090728878974915,
+                            "height": 0.048814594745635986,
+                            "page": 11
+                        },
+                        "content": "\t\t(a) such testing must be commensurate with the level of compliance risk identified in the business process (for example, as reflected in the frequency or volume of transactions); and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17625781893730164,
+                            "top": 0.5743430852890015,
+                            "width": 0.7092295289039612,
+                            "height": 0.04652322828769684,
+                            "page": 11
+                        },
+                        "content": "\t\t(b) the sample must be representative of the different types of internal controls implemented at different stages of business processes within a financial institution."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11615510284900665,
+                            "top": 0.6406891345977783,
+                            "width": 0.2788185179233551,
+                            "height": 0.01502353884279728,
+                            "page": 11
+                        },
+                        "content": "\t- Reporting of compliance risk"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.061748649924993515,
+                            "top": 0.6560623049736023,
+                            "width": 0.8239525556564331,
+                            "height": 0.033139780163764954,
+                            "page": 11
+                        },
+                        "content": "- S 8.8 The CCO must report to senior management on a regular basis the findings and analyses of compliance risk. The report must include at minimum-"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1756468117237091,
+                            "top": 0.6890881061553955,
+                            "width": 0.710322380065918,
+                            "height": 0.06564956903457642,
+                            "page": 11
+                        },
+                        "content": "\t\t(a) the results of the compliance risk assessment undertaken during the assessment period, highlighting key changes in the compliance risk profile of a financial institution as well as areas where greater attention by senior management would be needed;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17562073469161987,
+                            "top": 0.7546199560165405,
+                            "width": 0.7093748450279236,
+                            "height": 0.03274190053343773,
+                            "page": 11
+                        },
+                        "content": "\t\t(b) a summary of incidents of non-compliance and deficiencies in the management of compliance risk in various parts of the financial institution;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1760987788438797,
+                            "top": 0.78756183385849,
+                            "width": 0.7101607918739319,
+                            "height": 0.03228190913796425,
+                            "page": 11
+                        },
+                        "content": "\t\t(c) an assessment of the impact (both financial and non-financial) of such incidents on the financial institution (for example, fines, administrative or"
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11801217496395111,
+                            "top": 0.8497292399406433,
+                            "width": 0.7625842690467834,
+                            "height": 0.06856843829154968,
+                            "page": 11
+                        },
+                        "content": "7\nFor example, the development of new products, the strategic planning process (including mergers\nand acquisitions and entry into new lines of business), or the establishment of customer\nrelationships and any material changes in the nature of such relationships.\n8\nThis may include validating risk control self-assessment reports submitted to the compliance\nfunction."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11906655877828598,
+                            "top": 0.9435068964958191,
+                            "width": 0.17858266830444336,
+                            "height": 0.01243814267218113,
+                            "page": 11
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    },
+                    {
+                        "type": "Header",
+                        "bbox": {
+                            "left": 0.11839950829744339,
+                            "top": 0.048471659421920776,
+                            "width": 0.08864771574735641,
+                            "height": 0.012285851873457432,
+                            "page": 12
+                        },
+                        "content": "Compliance"
+                    },
+                    {
+                        "type": "Page Number",
+                        "bbox": {
+                            "left": 0.8199777603149414,
+                            "top": 0.04845941439270973,
+                            "width": 0.05945565924048424,
+                            "height": 0.010061033070087433,
+                            "page": 12
+                        },
+                        "content": "10 of 10"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.22578558325767517,
+                            "top": 0.10034095495939255,
+                            "width": 0.6587790846824646,
+                            "height": 0.03078940138220787,
+                            "page": 12
+                        },
+                        "content": "\t\t\t- otherwise, or other disciplinary actions taken by any regulatory authority in respect of any officers of the financial institution);"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1765880137681961,
+                            "top": 0.1317014843225479,
+                            "width": 0.7086772918701172,
+                            "height": 0.04891423508524895,
+                            "page": 12
+                        },
+                        "content": "\t\t(d) recommendations of corrective measures to address incidents of non- compliance and deficiencies in the management of compliance risk, including disciplinary actions;"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17638346552848816,
+                            "top": 0.18167324364185333,
+                            "width": 0.7074264883995056,
+                            "height": 0.03184608742594719,
+                            "page": 12
+                        },
+                        "content": "\t\t(e) a record of corrective measures already taken and an assessment of the adequacy and effectiveness of such measures; and"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.17688319087028503,
+                            "top": 0.21486814320087433,
+                            "width": 0.7070115208625793,
+                            "height": 0.04721764847636223,
+                            "page": 12
+                        },
+                        "content": "\t\t(f) insights and observations regarding the compliance culture that exists in the organisation or in specific parts of the organisation that may give rise to compliance concerns."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06079570949077606,
+                            "top": 0.2801981270313263,
+                            "width": 0.8244695067405701,
+                            "height": 0.047475434839725494,
+                            "page": 12
+                        },
+                        "content": "- S 8.9 The CCO must ensure that the reports referred to in paragraph 8.8 are readily available to the internal audit function of the financial institution, the Bank and other regulatory authorities upon request."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11699316650629044,
+                            "top": 0.3462098240852356,
+                            "width": 0.08680185675621033,
+                            "height": 0.014352662488818169,
+                            "page": 12
+                        },
+                        "content": "\t- Advisory"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.061032675206661224,
+                            "top": 0.3618372678756714,
+                            "width": 0.8241170048713684,
+                            "height": 0.09715412557125092,
+                            "page": 12
+                        },
+                        "content": "- S 8.10 The compliance function must advise the board, senior management and officers on legal and regulatory requirements. This includes keeping them informed on the developments affecting legal and regulatory requirements and providing the board and senior management with an assessment of their implications on a financial institution's compliance risk profile and capacity to manage compliance risk going forward."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.1176854595541954,
+                            "top": 0.47715428471565247,
+                            "width": 0.21206991374492645,
+                            "height": 0.014555166475474834,
+                            "page": 12
+                        },
+                        "content": "\t- Guidance and training"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06126778945326805,
+                            "top": 0.4927617013454437,
+                            "width": 0.824070394039154,
+                            "height": 0.1138421818614006,
+                            "page": 12
+                        },
+                        "content": "- S 8.11 The compliance function is responsible for ensuring that adequate training is provided to officers of a financial institution on relevant legal and regulatory requirements governing the financial institution's activities. Such training must be timely and must clearly explain how the requirements apply in the specific context of the financial institution's operations. The compliance function must be able to provide guidance to officers of the financial institution on the implementation of internal controls to manage compliance risk."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.11867818981409073,
+                            "top": 0.6280072331428528,
+                            "width": 0.49059465527534485,
+                            "height": 0.015162377618253231,
+                            "page": 12
+                        },
+                        "content": "\t- 9 Responsibilities of the internal audit function"
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.06049193814396858,
+                            "top": 0.6656016707420349,
+                            "width": 0.8249260187149048,
+                            "height": 0.11306404322385788,
+                            "page": 12
+                        },
+                        "content": "- S 9.1 A financial institution must ensure that there is a clear separation of the internal audit function and other functions carrying out compliance function responsibilities. Compliance risk must be included in the risk assessment methodology of the internal audit function, and an audit programme that covers the adequacy and effectiveness of the other functions carrying out compliance function responsibilities should be established, including testing of controls commensurate with the perceived level of risk."
+                    },
+                    {
+                        "type": "List Item",
+                        "bbox": {
+                            "left": 0.060738347470760345,
+                            "top": 0.7966153621673584,
+                            "width": 0.8240081071853638,
+                            "height": 0.03120584785938263,
+                            "page": 12
+                        },
+                        "content": "- S 9.2 The internal audit function is required to inform senior management, including the CCO, of any incidents of non-compliance which it discovers."
+                    },
+                    {
+                        "type": "Footer",
+                        "bbox": {
+                            "left": 0.11895149201154709,
+                            "top": 0.9436437487602234,
+                            "width": 0.17841948568820953,
+                            "height": 0.012295938096940517,
+                            "page": 12
+                        },
+                        "content": "Issued on: 10 May 2016"
+                    }
+                ]
+            }
+        ]
+    }
+}

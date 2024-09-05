@@ -1,0 +1,404 @@
+{
+  "entities": [
+    {
+      "name": "Page",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Page",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Page Number"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Title",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Title",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Content",
+            "Page Number",
+            "Location"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Figure",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Figure",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Content",
+            "Page Number",
+            "Location"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Footer",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Footer",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Content",
+            "Page Number",
+            "Location"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "List Item",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "List Item",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Content",
+            "Page Number",
+            "Location"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Header",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Header",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Content",
+            "Page Number",
+            "Location"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Document",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Document",
+          "properties": [
+            "Type"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section Header",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Section Header",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Content",
+            "Page Number",
+            "Location"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Text",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Content",
+            "Page Number",
+            "Location"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Table",
+      "description": "auto-generated",
+      "fields": [
+        {
+          "name": "Table",
+          "properties": [
+            "Type",
+            "Hash",
+            "Node Name",
+            "Content",
+            "Page Number",
+            "Location"
+          ]
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "name": "follows",
+      "description": "auto-generated"
+    },
+    {
+      "name": "contains",
+      "description": "auto-generated"
+    },
+    {
+      "name": "links_to",
+      "description": "auto-generated"
+    },
+    {
+      "name": "is_parent",
+      "description": "auto-generated"
+    }
+  ],
+  "patterns": [
+    {
+      "head": "Page",
+      "relation": "contains",
+      "tail": "Title",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Page",
+      "relation": "contains",
+      "tail": "Text",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "follows",
+      "tail": "Section Header",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "is_parent",
+      "tail": "Header",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Document",
+      "relation": "contains",
+      "tail": "Page",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Document",
+      "relation": "contains",
+      "tail": "Title",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Document",
+      "relation": "contains",
+      "tail": "Figure",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Document",
+      "relation": "contains",
+      "tail": "Footer",
+      "description": "auto-generated"
+    },
+  {
+    "head": "Document",
+    "relation": "contains",
+    "tail": "List Item",
+    "description": "auto-generated"
+  },
+  {
+    "head": "Document",
+    "relation": "contains",
+    "tail": "Header",
+    "description": "auto-generated"
+  },
+  {
+    "head": "Document",
+    "relation": "contains",
+    "tail": "Section Header",
+    "description": "auto-generated"
+  },
+  {
+    "head": "Document",
+    "relation": "contains",
+    "tail": "Text",
+    "description": "auto-generated"
+  },
+  {
+    "head": "Document",
+    "relation": "contains",
+    "tail": "Table",
+    "description": "auto-generated"
+  },
+
+    {
+      "head": "Section Header",
+      "relation": "is_parent",
+      "tail": "Text",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Page",
+      "relation": "contains",
+      "tail": "Figure",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Page",
+      "relation": "contains",
+      "tail": "Table",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "is_parent",
+      "tail": "Footer",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "is_parent",
+      "tail": "List Item",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "is_parent",
+      "tail": "Figure",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "is_parent",
+      "tail": "Table",
+      "description": "auto-generated"
+    },
+    {
+      "head": "List Item",
+      "relation": "contains",
+      "tail": "List Item",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Page",
+      "relation": "contains",
+      "tail": "Footer",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Page",
+      "relation": "contains",
+      "tail": "Header",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Page",
+      "relation": "contains",
+      "tail": "List Item",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "links_to",
+      "tail": "Section Header",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "links_to",
+      "tail": "List Item",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "links_to",
+      "tail": "Text",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Section Header",
+      "relation": "links_to",
+      "tail": "Header",
+      "description": "auto-generated"
+    },
+    {
+      "head": "List Item",
+      "relation": "links_to",
+      "tail": "Section Header",
+      "description": "auto-generated"
+    },
+    {
+      "head": "List Item",
+      "relation": "links_to",
+      "tail": "List Item",
+      "description": "auto-generated"
+    },
+    {
+      "head": "List Item",
+      "relation": "links_to",
+      "tail": "Text",
+      "description": "auto-generated"
+    },
+    {
+      "head": "List Item",
+      "relation": "links_to",
+      "tail": "Header",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Text",
+      "relation": "links_to",
+      "tail": "Section Header",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Text",
+      "relation": "links_to",
+      "tail": "List Item",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Text",
+      "relation": "links_to",
+      "tail": "Text",
+      "description": "auto-generated"
+    },
+    {
+      "head": "Text",
+      "relation": "links_to",
+      "tail": "Header",
+      "description": "auto-generated"
+    }
+  ]
+}

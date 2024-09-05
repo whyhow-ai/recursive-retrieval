@@ -1,0 +1,38 @@
+{
+  "entities": [
+    {
+      "name": "Legal Term",
+      "description": "Refers to a word or phrase in a legal document that has a definition",
+      "fields": [
+        {
+          "name": "Legal Term",
+          "properties": []
+        }
+      ]
+    },
+    {
+      "name": "Definition",
+      "description": "An explanation of a legal term in the legal document.",
+      "fields": [
+        {
+          "name": "Definition",
+          "properties": []
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "name": "has_definition",
+      "description": "Description"
+    }
+  ],
+  "patterns": [
+    {
+      "head": "Legal Term",
+      "relation": "has_definition",
+      "tail": "Definition",
+      "description": "Description"
+    }
+  ]
+}
